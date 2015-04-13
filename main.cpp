@@ -15,6 +15,6 @@ int main()
     int N;
     cout << "Vvedite chislo dlya factoriala(po zadaniyu - 3): ";
     cin >> N;
-    cout << "Factorial dlya chisla " << N << " = " << fact(N) << endl << endl; // fact(N) - функция для вычисления факториала.
+    cout << "Factorial dlya chisla " << N << " = " << fact(N) << endl << endl;
     return 0;
 }
